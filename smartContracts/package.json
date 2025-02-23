@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "dotenv": "^16.4.7",
+    "ethers": "^5.7.2",
+    "hardhat": "^2.22.18"
+  },
+  "dependencies": {
+    "hardhat-project": "file:",
+    "node-fetch": "^3.3.2"
+  }
+}
