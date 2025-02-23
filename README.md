@@ -115,10 +115,19 @@ Save the deployed contract address in `.env`.
 
 ## 📸 Screenshots
 ### 🌍 Marketplace Page
-![Marketplace Screenshot](screenshots/marketplace.png)
+![Marketplace Screenshot](https://github.com/user-attachments/assets/4f4d8436-c833-42a3-a89e-3f54a564a617)
+![Marketplace Screenshot](https://github.com/user-attachments/assets/a739b3e2-c9f2-4ea9-8e5b-c18d1c615a70)
+![image](https://github.com/user-attachments/assets/1268e064-0d85-4256-991d-1e4811c74ce3)
 
-### 🛒 Product Listings
-![Product Listings](screenshots/product-listing.png)
+
+### 🛒 Dashboard
+![image](https://github.com/user-attachments/assets/e8da986b-8e26-43cb-ad31-7377efd67d80)
+### Farmers
+![image](https://github.com/user-attachments/assets/b525ecc1-b935-4457-b46b-25d3c405acd7)
+![image](https://github.com/user-attachments/assets/f83e5e40-90c7-4e7f-950e-24b4ab840a4e)
+### 🛒 Track Your Order
+![image](https://github.com/user-attachments/assets/a40a8611-12ee-4168-a437-97ee19918ca7)
+![image](https://github.com/user-attachments/assets/6607383a-d302-4fb6-a078-7ed07565570a)
 
 ## 💰 Revenue Model
 
